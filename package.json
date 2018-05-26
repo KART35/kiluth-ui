@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "coffeelint": "^1.9.7",
-    "https://github.com/kiluth/kiluth-transparency": "^0.1.0"
+    "https://github.com/kiluth/kiluth-transparency.git": ""
   },
   "configSchema": {
     "fontSize": {
